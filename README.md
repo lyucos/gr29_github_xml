@@ -1,6 +1,6 @@
-<!-- This is an educational repository that contains homeworks, completed as part of Vadim Ksendzov's training course on software testing.
+This is an educational repository that contains homeworks, completed as part of Vadim Ksendzov's training course on software testing.
 Here I am learning how to work in GitHub.
-Below is my homework and solution -->
+Below is my homework and solution 
 
 
 XML
