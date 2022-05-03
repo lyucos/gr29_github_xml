@@ -1,0 +1,29 @@
+<xml>
+    <skill>"Basic theory (What is testing, bug reports, documentation, types, methods, areas of testing, etc.) SDLC, STLC"</skill>
+    <skill>"What is a client-server architecture"</skill>
+    <skill>"HTTP Methods of requests to the server"</skill>
+    <skill>"HTTP server response codes"</skill>
+    <skill>"Structures of HTTP requests and responses"</skill>
+    <skill>"What is JSON, XML. Their structure"</skill>
+    <skill>"API testing via Postman (JS, API autotests)"</skill>
+    <skill>"Removing and reading logs from an external server"</skill>
+    <skill>"Sniffing http web traffic via Charles and Fiddler"</skill>
+    <skill>"Dev Tools of web browsers (Google Chrome, FireFox)"</skill>
+    <skill>"VPN. (How it works, why you need it, how to use it, tool options)"</skill>
+    <skill>"Mobile testing"</skill>
+    <skill>"Feature iOS, Android, guidelines"</skill>
+    <skill>"Building iOS applications on XCode. (Those who do not have a Mac computer, just look)"</skill>
+    <skill>"Building Android applications on Android Studio"</skill>
+    <skill>"ADB (android device management)"</skill>
+    <skill>"Setting up proxy and vpn on iOS and Android"</skill>
+    <skill>"nterception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android"</skill>
+    <skill>"Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)"</skill>
+    <skill>"Basics of bash scripting, automation of routine tasks on the server"</skill>
+    <skill>"Basics of bash scripting, automation of routine tasks on the server"</skill>
+    <skill>"Access to remote servers"</skill>
+    <skill>"SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)"</skill>
+    <skill>"Postgres database (installation, configuration and use)"</skill>
+    <skill>"Non-relational database Redis (installation, configuration and use)"</skill>
+    <skill>"Load testing in Jmeter"</skill>
+    <skill>"Scrum development methodology"</skill>
+    <skill>"Python. (Learning the basics. Creating a client-server application)"</skill>
