@@ -1,0 +1,10 @@
+<xml>
+  <BugSummary>"Короткое описание"</BugSummary>
+  <Severity>"Серьезность"</Severity>
+  <StepsToReproduce>"Шаги к воспроизведению"</StepsToReproduce>
+  <ActualResult>"Фактический результат"</ActualResult>
+  <ExpectedResult>"Ожидаемый результат"</ExpectedResult>
+
+
+
+  
